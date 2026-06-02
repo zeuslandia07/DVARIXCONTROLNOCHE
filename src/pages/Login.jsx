@@ -61,7 +61,7 @@ export default function Login({
         "admin";
 
       const PASS =
-        "DvarEX2026*";
+        "Zeus2026*";
 
       if (
         usuario
