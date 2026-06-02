@@ -5,7 +5,7 @@ import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
 import Control from "./pages/Control";
 import SinNovedad from "./pages/SinNovedad";
-import Novedades from "./pages/Novedades";
+import Novedades from "./pages/Novedades";g
 import Recogidas from "./pages/Recogidas";
 
 function App() {
