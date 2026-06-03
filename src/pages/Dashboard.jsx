@@ -351,11 +351,11 @@ const barData = [
     <span>{totalGuias}</span>
   </div>
 
-  <div className="card">
-    <AlertTriangle />
-    <h3>Guías Novedad</h3>
-    <span>{guiasConNovedad}</span>
-  </div>
+<div className="card compact">
+  <AlertTriangle size={22} />
+  <h3>Planillas con Novedad</h3>
+  <span>{novedades.length}</span>
+</div>
 
   <div className="card">
     <Package />
